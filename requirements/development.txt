@@ -1,0 +1,9 @@
+-r base.txt
+-r tests.txt
+-r types.txt
+
+bandit==1.7.4
+black==22.10.0
+flake8==5.0.4
+isort==5.10.1
+pur==7.0.0
