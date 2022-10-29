@@ -1,1 +1,1 @@
-pandas-stubs==1.5.0.221012
+pandas-stubs==1.5.1.221024
